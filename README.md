@@ -6,7 +6,7 @@
 ---
 
 ## About
-I am a B.Tech (Artificial Intelligence) student with a strong foundation in Core Java, Python, and applied AI. I enjoy building practical ML/DL projects and embedded/IoT systems, and I focus on delivering robust, production-oriented solutions. I have led multiple team projects and published work in IoT air-quality monitoring. 
+I'm a B.Tech (Artificial Intelligence) student with a strong foundation in Core Java, Python, and applied AI. I enjoy building practical ML/DL projects and embedded/IoT systems, and I focus on delivering robust, production-oriented solutions. I have led multiple team projects and published work in IoT air-quality monitoring. 
 
 ---
 
