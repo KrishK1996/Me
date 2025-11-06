@@ -1,5 +1,3 @@
-# Me
-A formal description about me.
 # Krishna Kumar
 
 **B.Tech Artificial Intelligence student** | Hyderabad, India  
